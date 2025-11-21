@@ -92,15 +92,17 @@ Within the os-Ticket-Installation-Files folder, double-click the mysql-5.5.62-wi
 <img width="504" height="382" alt="image" src="https://github.com/user-attachments/assets/1de8ed90-c6b2-4cfb-b3f8-7923a1d49a8d" />
 </p>
 <p>
-Now with the Congiuration Wizard open, select Next. Select the Standard Configuration and hit Next. Leave everything as-is on the next window and hit Next. Enter the root password as 'root' and retype to confirm. Select Next and then Execute.
+Now with the Configuration Wizard open, select Next. Select the Standard Configuration and hit Next. Leave everything as-is on the next window and hit Next. Enter the root password as 'root' and retype to confirm. Select Next and then Execute.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1410" height="762" alt="image" src="https://github.com/user-attachments/assets/560fc84b-37ac-46ad-98e1-6f3749dd820e" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open Internet Information Services (IIS) as an Admin. Double-click PHP Manager. Click Register a new PHP version. Browse to your PHP folder on the C drive. Click into it, select the php-cgi file and select Open. Click OK.
 </p>
 <br />
 
