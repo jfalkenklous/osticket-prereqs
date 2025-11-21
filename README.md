@@ -44,10 +44,11 @@ Go to Control Panel. Select Programs. Select Turn Windows features on or off. Na
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1120" height="635" alt="image" src="https://github.com/user-attachments/assets/2373876a-8e91-496c-b8c2-e7fc659e439f" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to the os-Ticket-Installation-Files folder. Double-click on the PHPManagerForIIs_V1.5.0 file. Follow through the prompts, selecting next and agreeing to the terms and conditions.  
 </p>
 <br />
 
