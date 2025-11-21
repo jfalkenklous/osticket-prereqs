@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Download [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip onto Desktop
 - Enable Internet Information Services (IIS)
-- Install Web Platform Installer
+- Install PHP Manager
 - Install MySQL
 - Install C++ Redistributable
 - Configure permissions and install osTicket
