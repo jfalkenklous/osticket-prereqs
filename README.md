@@ -35,6 +35,23 @@ Download the osTicket installation files referenced from the Prerequisities sect
 <br />
 
 <p>
+<img width="1073" height="866" alt="image" src="https://github.com/user-attachments/assets/94f73c24-580a-4a51-bf1a-6a52bb26fd33" />
+
+</p>
+<p>
+Go to Control Panel. Select 'Programs'. Select 'Turn Windows features on or off'. Navigate to 'Internet Information Services' and check the box. Expand the drop-down by clicking the '+' icon next to it. Expand 'World Wide Web Services' and then expand 'Application Development Features'. Check the box for 'CGI'. Click 'OK'.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
