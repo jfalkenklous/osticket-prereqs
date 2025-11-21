@@ -71,26 +71,28 @@ Create a folder on your C drive labeled PHP. Navigate back to the os-Ticket-Inst
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="871" height="334" alt="image" src="https://github.com/user-attachments/assets/8734bda3-3062-44ee-951a-285f1ab43044" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the os-Ticket-Installation-Files folder, double-click the VC_redist.x86 file to install, agree to the terms.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="973" height="630" alt="image" src="https://github.com/user-attachments/assets/2596b0c6-2ede-4ba4-bc15-f6cccf7fb78d" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the os-Ticket-Installation-Files folder, double-click the mysql-5.5.62-win32 file. Follow through the prompts to install (NOTE: Select the Typical install). Once prompted, select Finish, confirming the box is checked to launch the Configuration Wizard.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="504" height="382" alt="image" src="https://github.com/user-attachments/assets/1de8ed90-c6b2-4cfb-b3f8-7923a1d49a8d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now with the Congiuration Wizard open, select Next. Select the Standard Configuration and hit Next. Leave everything as-is on the next window and hit Next. Enter the root password as 'root' and retype to confirm. Select Next and then Execute.
 </p>
 <br />
 
