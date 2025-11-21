@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1124" height="631" alt="image" src="https://github.com/user-attachments/assets/6f1d6493-2d84-4bd7-a5a5-fdbc0fbf42e3" />
 </p>
 <p>
-Download the osTicket installation files referenced from the Prerequisities section above. Once downloaded, unzip the files. Inside the folder, you should see the files as shown in the above image.
+Download the osTicket installation files referenced from the Prerequisities section above. Once downloaded, unzip the files onto your Desktop. Inside the folder, you should see the files as shown in the above image.
 </p>
 <br />
 
