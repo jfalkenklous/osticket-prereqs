@@ -17,6 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Download osTicket-Installation-Files.zip and unzip onto Desktop
 - Enable Internet Information Services (IIS)
 - Install Web Platform Installer
 - Install MySQL
