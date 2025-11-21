@@ -48,7 +48,7 @@ Go to Control Panel. Select Programs. Select Turn Windows features on or off. Na
 
 </p>
 <p>
-Navigate to the os-Ticket-Installation-Files folder. Double-click on the PHPManagerForIIs_V1.5.0 file. Follow through the prompts, selecting next and agreeing to the terms and conditions.  
+Navigate to the os-Ticket-Installation-Files folder. Double-click on the PHPManagerForIIs_V1.5.0 file. Follow through the prompts, selecting next and agreeing to the terms and conditions to install.  
 </p>
 <br />
 
@@ -57,15 +57,16 @@ Navigate to the os-Ticket-Installation-Files folder. Double-click on the PHPMana
 
 </p>
 <p>
-Go back to the to the os-Ticket-Installation-Files folder. Double-click on the rewrite_amd64_en-US file. Follow through the prompts, selecting next and agreeing to the terms and conditions. 
+Go back to the to the os-Ticket-Installation-Files folder. Double-click on the rewrite_amd64_en-US file. Follow through the prompts, selecting next and agreeing to the terms and conditions to install. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1712" height="725" alt="image" src="https://github.com/user-attachments/assets/fa1c3f39-5f9b-4d26-aea8-405c3e86fe98" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a folder on your C drive labeled PHP. Navigate back to the os-Ticket-Installation-Files folder. Extract the php-7.3.8-nts-Win32-VC15-x86 file into the newly created PHP folder.
 </p>
 <br />
 
