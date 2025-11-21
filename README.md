@@ -39,7 +39,7 @@ Download the osTicket installation files referenced from the Prerequisities sect
 
 </p>
 <p>
-Go to Control Panel. Select 'Programs'. Select 'Turn Windows features on or off'. Navigate to 'Internet Information Services' and check the box. Expand the drop-down by clicking the '+' icon next to it. Expand 'World Wide Web Services' and then expand 'Application Development Features'. Check the box for 'CGI'. Click 'OK'.
+Go to Control Panel. Select Programs. Select Turn Windows features on or off. Navigate to Internet Information Services and check the box. Expand the drop-down by clicking the + icon next to it. Expand World Wide Web Services and then expand Application Development Features. Check the box for CGI. Click OK.
 </p>
 <br />
 
