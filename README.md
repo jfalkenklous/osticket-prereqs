@@ -226,7 +226,7 @@ Go back to the osTicket site and fill in the Database Settings as shown in the i
 <img width="1592" height="859" alt="image" src="https://github.com/user-attachments/assets/285e5557-5333-4cc1-979f-e1177473d89b" />
 </p>
 <p>
-The installation should now be successful, confirm my seeing a screen present you with a Congratualations!
+The installation should now be successful, confirm by seeing a screen present you with a Congratulations!
 </p>
 <br />
 
