@@ -142,33 +142,92 @@ In the left-pane expand the drop-down for the server. Expand Sites, expand Defau
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1511" height="868" alt="image" src="https://github.com/user-attachments/assets/feea44f5-639f-4273-9652-b6d2cbe4d428" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You should now be at the osTicket site. Notice not all features are installed, such as PHP IMAP Extension. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1685" height="783" alt="image" src="https://github.com/user-attachments/assets/bfef9a0a-7ea0-4898-9337-8e3e0ab9d029" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to the IIS Manager. Make sure you are selected on osTicket, double-click PHP Manager. Select Enable or disable an extension. Enable php_imap.dll. Enable php_intl.dll. Enable php_opcache.dll.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1513" height="903" alt="image" src="https://github.com/user-attachments/assets/52d43676-19ab-4d1e-8260-c88d71ebee51" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to the osTicket site, refresh your browser. Notice some of the additional features are now enabled.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="727" height="148" alt="image" src="https://github.com/user-attachments/assets/b4a37d6e-efb4-44a5-94a0-f3ebebbb20d0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to the following in File Explorer C:\inetpub\wwwroot\osTicket\include. Rename 'ost-sampleconfig.php' to 'ost-config.php'
 </p>
 <br />
+
+<p>
+<img width="762" height="523" alt="image" src="https://github.com/user-attachments/assets/2df7f98b-7920-4b5b-bb3d-f98e5abc0612" />
+</p>
+<p>
+Right-click the file, select Properties. Go to the Securitty tab. Select Advanced. Select Disable inheritance. Select Remove all inherited permissions from this object. Select Add. Choose Select a principal. Type 'everyone', select Check names, and then select OK. Check Full control and hit OK. Select Apply and hit OK. 
+</p>
+<br />
+
+<p>
+<img width="883" height="816" alt="image" src="https://github.com/user-attachments/assets/32e530bc-37ab-4845-ab19-7556cae5bc0e" />
+</p>
+<p>
+Go back to the osTicket site and select Continue. Fill out the information fields under the System Settings and Admin User sections, as shown in the image above. 
+</p>
+<br />
+
+<p>
+<img width="596" height="459" alt="image" src="https://github.com/user-attachments/assets/2bf0dfe9-17b4-4759-b3df-cbabf6cce4ca" />
+</p>
+<p>
+Navigate to the osTicket-Installation-Files folder. Double-click the file 'HeidiSQL_12.3.0.6589_Setup' to install. Accept the agreement and select Next. Continue to select Next for the additional prompts and hit Install. Ensure the Launch HeidiSQL box is selected and hit Finish. 
+</p>
+<br />
+
+<p>
+<img width="726" height="523" alt="image" src="https://github.com/user-attachments/assets/cec74bdb-3fbd-4483-9f63-a0f5f71a6f96" />
+</p>
+<p>
+With the session manager now open, select New in the bottom-left of the window. Type 'root' for username and password and select Open. 
+</p>
+<br />
+
+<p>
+<img width="1362" height="780" alt="image" src="https://github.com/user-attachments/assets/28cfefb8-b4c0-430a-b3c6-a15fc3190347" />
+</p>
+<p>
+Right-click where it says 'Unnamed' in the top-left of the HeidiSQL windows. Select Create new and then Database. Type osTicket for the database name and hit OK. 
+</p>
+<br />
+
+<p>
+<img width="889" height="441" alt="image" src="https://github.com/user-attachments/assets/472cd273-ef0f-4d41-aa52-1aad1f6f19c4" />
+</p>
+<p>
+Go back to the osTicket site and fill in the Database Settings as shown in the image above. Username and password are 'root'. Select Install Now. 
+</p>
+<br />
+
+<p>
+<img width="1592" height="859" alt="image" src="https://github.com/user-attachments/assets/285e5557-5333-4cc1-979f-e1177473d89b" />
+</p>
+<p>
+The installation should now be successful, confirm my seeing a screen present you with a Congratualations!
+</p>
+<br />
+
+
